@@ -64,11 +64,12 @@ Several models were trained and evaluated, including:
 - **Decision Tree Classifier:** Achieved an accuracy of 84.58%.
 - **Bagging with Decision Tree:** Mean score of 73.10%.
 - **AdaBoost with Decision Tree:** Same result as decision tree with 84%.
-- **Random Forest Classifier:** Achieved an accuracy of 84.7%.
-- **AdaBoost with Random Forest:** Achieved the highest accuracy among the models.
+- **Random Forest Classifier:** Achieved an accuracy of 84.75%.
+- **AdaBoost with Random Forest:** Achieved an accuracy of 84.69%.
+- While computing different ensemble learning technologies, we found that most of the bagging and boosting algorithms provided similar results with minimal differences in accuracy. However, among all these ensemble methods, the best model for this dataset was the Random Forest, achieving an accuracy of almost 85%.
 
 ## Conclusion
-The ensemble learning methods, particularly the combination of AdaBoost with Random Forest, provided significant improvements in prediction accuracy. The project demonstrates the effectiveness of ensemble techniques in improving predictive performance for loan repayment prediction tasks.
+The ensemble learning methods, particularly the Random Forest Classifier, provided significant improvements in prediction accuracy. The project demonstrates the effectiveness of ensemble techniques in improving predictive performance for loan repayment prediction tasks.
 
 ## References
 - Dataset: `loan_data.csv`
