@@ -1,12 +1,12 @@
 # Loan Repayment Prediction Using Ensemble Learning Methods
 
 ## Objective
-The goal of this project is to predict whether a bank should approve a loan for an applicant based on their financial profile, utilizing ensemble learning methods to enhance predictive accuracy. Hopefully, as an investor you would want to invest in people who showed a profile of having a high probability of paying you back. We will try to create a model that will help predict this and connects people who need money (borrowers) with people who have money (investors).
+The goal of this project is to predict whether a bank should approve a loan for an applicant based on their financial profile, utilizing ensemble learning methods to enhance predictive accuracy. Hopefully, as an investor you would want to invest in people who showed a profile of having a high probability of paying you back. We will try to create a model that will help predict this and thus connect people who need money (borrowers) with people who have money (investors).
 
 ## Project Overview
 This project involves the implementation of several machine learning techniques to predict loan repayment. The dataset used contains various financial attributes of loan applicants. The project includes data preprocessing, exploratory data analysis, feature engineering, and modeling using multiple ensemble learning methods.
 
-We will use lending data from 2007-2010 and be trying to classify and predict whether or not the borrower paid back their loan in full. You can download the data from the csv already provided. It's recommended you use the csv provided as it has been cleaned of NA values.
+We will use old lending data and be trying to classify and predict whether or not the borrower paid back their loan in full. You can download the data from the csv already provided (It has been cleaned of NA values).
 
 Here are what the columns represent:
 
